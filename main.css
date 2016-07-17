@@ -1,0 +1,23 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid grey;
+}
+
+tr {
+    cursor: pointer;
+}
+
+td, th {
+    padding: 4px 8px;
+    border: 1px solid grey;
+}
+
+th {
+    font-weight: bold;
+}
+
